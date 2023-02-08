@@ -9,7 +9,7 @@ html, body {
 
 .wrapper {
   max-height: 200vh;
-  max-width: 50%;
+  max-width: 70%;
   color: white;
   background: #272639;
   border-radius: 1rem;
@@ -32,7 +32,7 @@ html, body {
   display:block;
   align-items: center;
   font-size: 1.2rem;
-  width: 15rem;
+  width: 13rem;
 }
 
 button {
