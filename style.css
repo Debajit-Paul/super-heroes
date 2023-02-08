@@ -20,8 +20,9 @@ html, body {
 .container {
   margin-top: 1.4rem;
   display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0.5rem;
 }
 
 #searchInput {
@@ -29,6 +30,7 @@ html, body {
   border: 1px solid gray;
   border-radius: 1.4rem;
   padding: 0.5rem;
+  margin: 10px auto;
   display:block;
   align-items: center;
   font-size: 1.2rem;
